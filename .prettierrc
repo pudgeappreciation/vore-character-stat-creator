@@ -1,0 +1,8 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "trailingComma": "all",
+  "singleAttributePerLine": true,
+  "quoteProps": "consistent", 
+  "vueIndentScriptAndStyle": false
+}
